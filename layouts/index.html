@@ -16,7 +16,7 @@
         </div>
       </div>
       <div class="home-box-container">
-        {{ .Content }}
+        {{ .Content | .RenderString }}
       </div>
       <hr class="w-25">
       {{ partial "social" . }}
