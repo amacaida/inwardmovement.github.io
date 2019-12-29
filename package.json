@@ -4,7 +4,7 @@
   "description": "Personal website",
   "main": "gulpfile.js",
   "scripts": {
-    "start": "hugo server -DEF --i18n-warnings",
+    "start": "hugo server -DEF --i18n-warnings --minify",
     "build-prod": "hugo --i18n-warnings && gulp"
   },
   "repository": {
