@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Inward Movement</title>
+    <link>https://inwardmovement.github.io/categories/</link>
+    <description>Recent content in Categories on Inward Movement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://inwardmovement.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relations interpersonnelles</title>
+      <link>https://inwardmovement.github.io/categories/relations-interpersonnelles/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://inwardmovement.github.io/categories/relations-interpersonnelles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophie analytique</title>
+      <link>https://inwardmovement.github.io/categories/philosophie-analytique/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://inwardmovement.github.io/categories/philosophie-analytique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
